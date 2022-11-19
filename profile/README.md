@@ -17,7 +17,7 @@
  along with .github.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# This Organization is Depracated
+# This Organization is Deprecated
 
 The original *Code for Vegas* brigade org transitioned to the *Code for Vegas Foundation* org here on GitHub. With the change of name of the Foundation to *Innovate for Vegas Foundation* the original GitHub org has been re-named, and this org exists moving forward to catch legacy references and searches and hopefully direct people to the right place.
 
@@ -33,11 +33,11 @@ Alternately, you can use the git cli in your repository directory:
 git remote set-url origin https://github.com/InnovateForVegas/new-repository.git
 ```
 
-Where *new-repoistory.git* is the actual name of the remote repository in question.
+Where *new-repository.git* is the actual name of the remote repository in question.
 
 ## Legacy Projects
 
-There are legacy project repositories in the new InnovateForVegas org which are largely unmaintained, they may be relocated to this org as part of the maintainance of legacy.
+There are legacy project repositories in the new InnovateForVegas org which are largely unmaintained, they may be relocated to this org as part of the maintenance of legacy.
 
 ## Name Transition Elsewhere
 
